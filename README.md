@@ -41,7 +41,7 @@ All parts other than the DRAM at IC2 are THT.
 
 # Assembly
 1. Solder on the DRAM. Be careful to not short any pins underneath the IC
-2. Solder on the remaining THT components
+2. Solder on the remaining THT components. Pay attention that RN1 pin 1 goes towards the top of the board.
 3. Solder on the pin headers (use MegaGRRL Desktop IC sockets for alignment)
 
 # Gerber files
